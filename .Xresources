@@ -1,64 +1,40 @@
-UXTerm*renderFont : true
-UXTerm*faceSize : 8
-UXTerm*faceName : InconsolataLGC
-
 UXTerm*dynamicColors:      true
+UXTerm*utf8:               2
+UXTerm*eightBitInput:      true
+UXTerm*saveLines:          512
+UXTerm*scrollKey:          true
+UXTerm*scrollTtyOutput:    false
+UXTerm*scrollBar:          true
+UXTerm*rightScrollBar:     true
+UXTerm*jumpScroll:         true
+UXTerm*multiScroll:        true
+UXTerm*toolBar:            false
+UXTerm*faceName: Inconsolata LGC
+UXTerm*faceSize: 13
 
 
-!BLK Cursor
-#define _color0        #000d18
-#define _color8        #000d18
-!RED Tag
-#define _color1        #e89393
-#define _color9        #e89393
-!GRN SpecialKey
-#define _color2        #9ece9e
-#define _color10       #9ece9e
-!YEL Keyword
-#define _color3        #f0dfaf
-#define _color11       #f0dfaf
-!BLU Number
-#define _color4        #1F1F1F
-#define _color12       #8cd0d3
-!MAG Precondit
-#define _color5        #c0bed1
-#define _color13       #c0bed1
-!CYN Float
-#define _color6        #6B6B6B
-#define _color14       #dfaf8f
-!WHT Search
-#define _color7        #efefef
-#define _color15       #efefef
-!FMT Include, StatusLine, ErrorMsg
-#define _colorBD       #ffcfaf
-#define _colorUL       #ccdc90
-#define _colorIT       #80d4aa
-!TXT Normal, Normal, Cursor
-#define _foreground    #dcdccc
-#define _background    #1f1f1f
-#define _cursorColor   #8faf9f
 
-UXTerm*color0         : _color0
-UXTerm*color1         : _color1
-UXTerm*color2         : _color2
-UXTerm*color3         : _color3
-UXTerm*color4         : _color4
-UXTerm*color5         : _color5
-UXTerm*color6         : _color6
-UXTerm*color7         : _color7
-UXTerm*color8         : _color8
-UXTerm*color9         : _color9
-UXTerm*color10        : _color10
-UXTerm*color11        : _color11
-UXTerm*color12        : _color12
-UXTerm*color13        : _color13
-UXTerm*color14        : _color14
-UXTerm*color15        : _color15
-UXTerm*colorBD        : _colorBD
-UXTerm*colorIT        : _colorIT
-UXTerm*colorUL        : _colorUL
-UXTerm*foreground     : _foreground
-UXTerm*background     : _background
-UXTerm*cursorColor    : _cursorColor
+
+*background: #0d1926
+*foreground: #d9e6f2
+
+*color0: #000000
+*color1: #b87a7a
+*color2: #7ab87a
+*color3: #b8b87a
+*color4: #7a7ab8
+*color5: #b87ab8
+*color6: #7ab8b8
+*color7: #d8d8d8
+*color8: #262626
+*color9: #dbbdbd
+*color10: #bddbbd
+*color11: #dbdbbd
+*color12: #bdbddb
+*color13: #dbbddb
+*color14: #bddbdb
+*color15: #ffffff
+
+
 
 

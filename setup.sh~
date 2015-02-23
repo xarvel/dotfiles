@@ -9,7 +9,7 @@
 basedir=~/Dropbox/configs
 dir=dotfiles                    # dotfiles directory
 olddir=dotfiles_old             # old dotfiles backup directory
-files="vimrc vim Xresources tmux.conf bashrc ssh"    # list of files/folders to symlink in homedir
+files="vimrc vim Xresources tmux.conf ssh"    # list of files/folders to symlink in homedir
 
 ##########
 
