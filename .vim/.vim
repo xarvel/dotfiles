@@ -1,1 +1,0 @@
-/home/xarvel/Dropbox/configs/dotfiles/.vim
